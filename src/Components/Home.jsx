@@ -22,8 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/woman-with-tablet.jpg";
 
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
-
+const imageAltText = "woman holding laptop standing by server room with glass wall"
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
